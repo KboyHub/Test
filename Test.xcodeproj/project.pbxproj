@@ -10,7 +10,6 @@
 		899AF999EC2CE9B67626B4E9 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA751C8BC9B6AC4F6CB77A8A /* Pods.framework */; };
 		B26B2F4D1CA24CD900836089 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B26B2F4C1CA24CD900836089 /* main.m */; };
 		B26B2F501CA24CD900836089 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B26B2F4F1CA24CD900836089 /* AppDelegate.m */; };
-		B26B2F531CA24CD900836089 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B26B2F521CA24CD900836089 /* ViewController.m */; };
 		B26B2F561CA24CD900836089 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B26B2F541CA24CD900836089 /* Main.storyboard */; };
 		B26B2F581CA24CD900836089 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B26B2F571CA24CD900836089 /* Assets.xcassets */; };
 		B26B2F5B1CA24CD900836089 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B26B2F591CA24CD900836089 /* LaunchScreen.storyboard */; };
@@ -50,8 +49,6 @@
 		B26B2F4C1CA24CD900836089 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B26B2F4E1CA24CD900836089 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B26B2F4F1CA24CD900836089 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B26B2F511CA24CD900836089 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B26B2F521CA24CD900836089 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B26B2F551CA24CD900836089 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B26B2F571CA24CD900836089 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B26B2F5A1CA24CD900836089 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -161,8 +158,6 @@
 				B26B2F801CA24E6C00836089 /* 2 */,
 				B26B2F7F1CA24E6400836089 /* 1 */,
 				B26B2F7E1CA24E5A00836089 /* Main */,
-				B26B2F511CA24CD900836089 /* ViewController.h */,
-				B26B2F521CA24CD900836089 /* ViewController.m */,
 				B26B2F4B1CA24CD900836089 /* Supporting Files */,
 			);
 			path = Test;
@@ -444,7 +439,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B26B2F8E1CA2501700836089 /* TwoViewController.m in Sources */,
-				B26B2F531CA24CD900836089 /* ViewController.m in Sources */,
 				B26B2FB61CA2525C00836089 /* UIImage+YKCircle.m in Sources */,
 				B26B2F851CA24EED00836089 /* YKTabBatController.m in Sources */,
 				B26B2F971CA2507200836089 /* YKTabBar.m in Sources */,
